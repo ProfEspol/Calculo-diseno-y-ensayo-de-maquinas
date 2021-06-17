@@ -1,2 +1,2 @@
-# C-lculo-dise-o-y-ensayo-de-m-quinasinin
+# Calculo-diseno-y-ensayo-de-maquinas
 Crear material para la asignatura.
